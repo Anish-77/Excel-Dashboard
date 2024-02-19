@@ -1,7 +1,7 @@
 # Excel-Dashboard
 An Excel dashboard is a visual representation of data that provides a consolidated and interactive view of key metrics, trends, and insights. It typically consists of a collection of charts, graphs, tables, and other visual elements that are organized on a single page or a set of interconnected sheets within a Microsoft Excel workbook. 
 # Swiggy Sales Comparison Dashboard
-
+[DOWNLOAD FILE FROM HERE](https://docs.google.com/spreadsheets/d/1e3TKSEmFH6oMSpqiClWwtu9enX01fP8l/edit?usp=sharing&ouid=100352334385723324837&rtpof=true&sd=true)
 ## Overview
 Welcome to the Swiggy Sales Comparison Dashboard—an Excel-based tool designed to analyze and compare sales data for a specific time period. This dashboard utilizes Excel's powerful Pivot Tables to provide a comprehensive view of key metrics, helping users gain insights into Swiggy sales performance.
 
